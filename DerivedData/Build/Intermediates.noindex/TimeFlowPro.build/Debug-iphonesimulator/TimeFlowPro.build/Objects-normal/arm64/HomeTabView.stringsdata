@@ -1,0 +1,16 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/HomeTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Accueil",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      }
+    ]
+  },
+  "version": 1
+}

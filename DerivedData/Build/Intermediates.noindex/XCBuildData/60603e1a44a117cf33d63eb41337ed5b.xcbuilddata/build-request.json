@@ -1,0 +1,80 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "22ab770b5ddba49c6c76927a8d77369e62f2a1f3d8e35da2a4b5952829048eb8"
+    },
+    {
+      "guid" : "22ab770b5ddba49c6c76927a8d77369e06e8f22b19cef90b1fca67f43a6ad045"
+    },
+    {
+      "guid" : "22ab770b5ddba49c6c76927a8d77369ed0eabd2c341c7c856cff8291bdb914d8"
+    }
+  ],
+  "containerPath" : "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/ProfileData",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "79",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "6860B145-17DF-4B00-9CFE-AF40E37F2A83",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

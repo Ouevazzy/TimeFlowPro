@@ -1,0 +1,18 @@
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/SummaryCardView.swift":
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/SummaryCardView.o"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/SummaryCardView.swiftconstvalues"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/SummaryCardView.d"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/SummaryCardView.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/SummaryCardView.dia"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/TimeCalculations.swift":
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeCalculations.swiftconstvalues"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeCalculations.d"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeCalculations.o"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeCalculations.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeCalculations.dia"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/TimeFlowApp.swift":
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowApp.o"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowApp.dia"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowApp.swiftconstvalues"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowApp.swiftdeps"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowApp.d"

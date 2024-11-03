@@ -1,0 +1,32 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/ReportsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rapports",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sélectionner une date",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Période",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 17
+        }
+      }
+    ]
+  },
+  "version": 1
+}

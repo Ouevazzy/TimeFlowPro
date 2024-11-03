@@ -1,0 +1,18 @@
+"/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/DerivedSources/CoreDataGenerated/TimeFlowPro/TimeFlowPro+CoreDataModel.swift":
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowPro+CoreDataModel.swiftconstvalues"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowPro+CoreDataModel.d"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowPro+CoreDataModel.swiftdeps"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowPro+CoreDataModel.o"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/TimeFlowPro+CoreDataModel.dia"
+"/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/DerivedSources/CoreDataGenerated/TimeFlowPro/WorkDayEntity+CoreDataProperties.swift":
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayEntity+CoreDataProperties.o"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayEntity+CoreDataProperties.swiftconstvalues"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayEntity+CoreDataProperties.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayEntity+CoreDataProperties.dia"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayEntity+CoreDataProperties.d"
+"/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/DerivedSources/GeneratedAssetSymbols.swift":
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"

@@ -1,0 +1,18 @@
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/Models.swift":
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/Models.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/Models.dia"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/Models.swiftconstvalues"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/Models.d"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/Models.o"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/HomeTabView.swift":
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/HomeTabView.d"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/HomeTabView.swiftdeps"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/HomeTabView.o"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/HomeTabView.dia"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/HomeTabView.swiftconstvalues"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/DayCell.swift":
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/DayCell.swiftconstvalues"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/DayCell.d"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/DayCell.o"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/DayCell.dia"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/DayCell.swiftdeps"

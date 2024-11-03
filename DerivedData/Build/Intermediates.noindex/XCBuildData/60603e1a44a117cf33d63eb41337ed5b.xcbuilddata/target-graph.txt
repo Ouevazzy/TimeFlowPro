@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'TimeFlowProTests' in project 'TimeFlowPro'
+➜ Explicit dependency on target 'TimeFlowPro' in project 'TimeFlowPro'
+Target 'TimeFlowProUITests' in project 'TimeFlowPro'
+➜ Explicit dependency on target 'TimeFlowPro' in project 'TimeFlowPro'
+Target 'TimeFlowPro' in project 'TimeFlowPro' (no dependencies)

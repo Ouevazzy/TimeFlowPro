@@ -7,7 +7,7 @@ struct PersistenceController {
     let container: NSPersistentCloudKitContainer
 
     init() {
-        container = NSPersistentCloudKitContainer(name: "TimeFlowPro") // Assurez-vous que "TimeFlow" correspond au nom de votre modèle Core Data
+        container = NSPersistentCloudKitContainer(name: "TimeFlowPro") // Assurez-vous que "TimeFlowPro" correspond au nom de votre modèle Core Data
 
         container.loadPersistentStores { description, error in
             if let error = error {

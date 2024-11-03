@@ -1,0 +1,48 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Accueil",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Journées",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calendrier",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rapports",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paramètres",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 57
+        }
+      }
+    ]
+  },
+  "version": 1
+}

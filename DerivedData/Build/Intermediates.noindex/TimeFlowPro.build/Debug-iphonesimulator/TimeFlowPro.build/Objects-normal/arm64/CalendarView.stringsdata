@@ -1,0 +1,16 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/CalendarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Calendrier",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 84
+        }
+      }
+    ]
+  },
+  "version": 1
+}

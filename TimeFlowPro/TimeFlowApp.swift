@@ -1,8 +1,8 @@
-// TimeFlowApp.swift
+// TimeFlowProApp.swift
 import SwiftUI
 
 @main
-struct TimeFlowApp: App {
+struct TimeFlowProApp: App {
     let persistenceController = PersistenceController.shared
     @AppStorage("appearanceMode") private var appearanceMode = "system"
 

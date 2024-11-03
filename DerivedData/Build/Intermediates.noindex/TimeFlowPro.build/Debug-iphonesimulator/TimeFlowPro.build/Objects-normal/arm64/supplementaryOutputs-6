@@ -1,0 +1,18 @@
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/WorkDaysViewModel.swift":
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysViewModel.swiftdeps"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysViewModel.d"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysViewModel.o"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysViewModel.swiftconstvalues"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysViewModel.dia"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/WorkDaysListView.swift":
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysListView.o"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysListView.swiftdeps"
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysListView.dia"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysListView.d"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDaysListView.swiftconstvalues"
+"/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/WorkDayRow.swift":
+  diagnostics: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayRow.dia"
+  const-values: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayRow.swiftconstvalues"
+  swift-dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayRow.swiftdeps"
+  dependencies: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayRow.d"
+  object: "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowPro.build/Objects-normal/arm64/WorkDayRow.o"

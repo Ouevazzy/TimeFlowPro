@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		17228E7A2CD76C92007B4F46 /* PBXContainerItemProxy */ = {
+		170924162CD7D9E40057DEF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 17228E5A2CD76C90007B4F46 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 17228E612CD76C90007B4F46;
-			remoteInfo = TimeFlow;
+			remoteInfo = TimeFlowPro;
 		};
-		17228E842CD76C92007B4F46 /* PBXContainerItemProxy */ = {
+		170924252CD7DA1A0057DEF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 17228E5A2CD76C90007B4F46 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 17228E612CD76C90007B4F46;
-			remoteInfo = TimeFlow;
+			remoteInfo = TimeFlowPro;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		170924122CD7D9E40057DEF0 /* TimeFlowProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeFlowProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1709241F2CD7DA1A0057DEF0 /* TimeFlowProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeFlowProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17228E622CD76C90007B4F46 /* TimeFlowPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeFlowPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		17228E792CD76C92007B4F46 /* TimeFlowProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeFlowProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		17228E832CD76C92007B4F46 /* TimeFlowProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeFlowProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -40,6 +40,16 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		170924132CD7D9E40057DEF0 /* TimeFlowProTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TimeFlowProTests;
+			sourceTree = "<group>";
+		};
+		170924202CD7DA1A0057DEF0 /* TimeFlowProUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TimeFlowProUITests;
+			sourceTree = "<group>";
+		};
 		17228E642CD76C90007B4F46 /* TimeFlowPro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -48,34 +58,24 @@
 			path = TimeFlowPro;
 			sourceTree = "<group>";
 		};
-		17228E7C2CD76C92007B4F46 /* TimeFlowProTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TimeFlowProTests;
-			sourceTree = "<group>";
-		};
-		17228E862CD76C92007B4F46 /* TimeFlowProUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TimeFlowProUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1709240F2CD7D9E40057DEF0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1709241C2CD7DA1A0057DEF0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		17228E5F2CD76C90007B4F46 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E762CD76C92007B4F46 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E802CD76C92007B4F46 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -89,8 +89,8 @@
 			isa = PBXGroup;
 			children = (
 				17228E642CD76C90007B4F46 /* TimeFlowPro */,
-				17228E7C2CD76C92007B4F46 /* TimeFlowProTests */,
-				17228E862CD76C92007B4F46 /* TimeFlowProUITests */,
+				170924132CD7D9E40057DEF0 /* TimeFlowProTests */,
+				170924202CD7DA1A0057DEF0 /* TimeFlowProUITests */,
 				17228E632CD76C90007B4F46 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -99,8 +99,8 @@
 			isa = PBXGroup;
 			children = (
 				17228E622CD76C90007B4F46 /* TimeFlowPro.app */,
-				17228E792CD76C92007B4F46 /* TimeFlowProTests.xctest */,
-				17228E832CD76C92007B4F46 /* TimeFlowProUITests.xctest */,
+				170924122CD7D9E40057DEF0 /* TimeFlowProTests.xctest */,
+				1709241F2CD7DA1A0057DEF0 /* TimeFlowProUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,6 +108,52 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		170924112CD7D9E40057DEF0 /* TimeFlowProTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 170924182CD7D9E40057DEF0 /* Build configuration list for PBXNativeTarget "TimeFlowProTests" */;
+			buildPhases = (
+				1709240E2CD7D9E40057DEF0 /* Sources */,
+				1709240F2CD7D9E40057DEF0 /* Frameworks */,
+				170924102CD7D9E40057DEF0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				170924172CD7D9E40057DEF0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				170924132CD7D9E40057DEF0 /* TimeFlowProTests */,
+			);
+			name = TimeFlowProTests;
+			packageProductDependencies = (
+			);
+			productName = TimeFlowProTests;
+			productReference = 170924122CD7D9E40057DEF0 /* TimeFlowProTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1709241E2CD7DA1A0057DEF0 /* TimeFlowProUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 170924272CD7DA1A0057DEF0 /* Build configuration list for PBXNativeTarget "TimeFlowProUITests" */;
+			buildPhases = (
+				1709241B2CD7DA1A0057DEF0 /* Sources */,
+				1709241C2CD7DA1A0057DEF0 /* Frameworks */,
+				1709241D2CD7DA1A0057DEF0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				170924262CD7DA1A0057DEF0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				170924202CD7DA1A0057DEF0 /* TimeFlowProUITests */,
+			);
+			name = TimeFlowProUITests;
+			packageProductDependencies = (
+			);
+			productName = TimeFlowProUITests;
+			productReference = 1709241F2CD7DA1A0057DEF0 /* TimeFlowProUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 		17228E612CD76C90007B4F46 /* TimeFlowPro */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 17228E8C2CD76C92007B4F46 /* Build configuration list for PBXNativeTarget "TimeFlowPro" */;
@@ -115,6 +161,7 @@
 				17228E5E2CD76C90007B4F46 /* Sources */,
 				17228E5F2CD76C90007B4F46 /* Frameworks */,
 				17228E602CD76C90007B4F46 /* Resources */,
+				17D005862CD7C3D400CC4594 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -130,52 +177,6 @@
 			productReference = 17228E622CD76C90007B4F46 /* TimeFlowPro.app */;
 			productType = "com.apple.product-type.application";
 		};
-		17228E782CD76C92007B4F46 /* TimeFlowProTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 17228E912CD76C92007B4F46 /* Build configuration list for PBXNativeTarget "TimeFlowProTests" */;
-			buildPhases = (
-				17228E752CD76C92007B4F46 /* Sources */,
-				17228E762CD76C92007B4F46 /* Frameworks */,
-				17228E772CD76C92007B4F46 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				17228E7B2CD76C92007B4F46 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				17228E7C2CD76C92007B4F46 /* TimeFlowProTests */,
-			);
-			name = TimeFlowProTests;
-			packageProductDependencies = (
-			);
-			productName = TimeFlowTests;
-			productReference = 17228E792CD76C92007B4F46 /* TimeFlowProTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		17228E822CD76C92007B4F46 /* TimeFlowProUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 17228E942CD76C92007B4F46 /* Build configuration list for PBXNativeTarget "TimeFlowProUITests" */;
-			buildPhases = (
-				17228E7F2CD76C92007B4F46 /* Sources */,
-				17228E802CD76C92007B4F46 /* Frameworks */,
-				17228E812CD76C92007B4F46 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				17228E852CD76C92007B4F46 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				17228E862CD76C92007B4F46 /* TimeFlowProUITests */,
-			);
-			name = TimeFlowProUITests;
-			packageProductDependencies = (
-			);
-			productName = TimeFlowUITests;
-			productReference = 17228E832CD76C92007B4F46 /* TimeFlowProUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -186,16 +187,16 @@
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
+					170924112CD7D9E40057DEF0 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 17228E612CD76C90007B4F46;
+					};
+					1709241E2CD7DA1A0057DEF0 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 17228E612CD76C90007B4F46;
+					};
 					17228E612CD76C90007B4F46 = {
 						CreatedOnToolsVersion = 16.1;
-					};
-					17228E782CD76C92007B4F46 = {
-						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 17228E612CD76C90007B4F46;
-					};
-					17228E822CD76C92007B4F46 = {
-						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 17228E612CD76C90007B4F46;
 					};
 				};
 			};
@@ -215,28 +216,28 @@
 			projectRoot = "";
 			targets = (
 				17228E612CD76C90007B4F46 /* TimeFlowPro */,
-				17228E782CD76C92007B4F46 /* TimeFlowProTests */,
-				17228E822CD76C92007B4F46 /* TimeFlowProUITests */,
+				170924112CD7D9E40057DEF0 /* TimeFlowProTests */,
+				1709241E2CD7DA1A0057DEF0 /* TimeFlowProUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		170924102CD7D9E40057DEF0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1709241D2CD7DA1A0057DEF0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		17228E602CD76C90007B4F46 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E772CD76C92007B4F46 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E812CD76C92007B4F46 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,22 +246,44 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		17D005862CD7C3D400CC4594 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "
+";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
+		1709240E2CD7D9E40057DEF0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1709241B2CD7DA1A0057DEF0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		17228E5E2CD76C90007B4F46 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E752CD76C92007B4F46 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		17228E7F2CD76C92007B4F46 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -270,19 +293,89 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		17228E7B2CD76C92007B4F46 /* PBXTargetDependency */ = {
+		170924172CD7D9E40057DEF0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 17228E612CD76C90007B4F46 /* TimeFlowPro */;
-			targetProxy = 17228E7A2CD76C92007B4F46 /* PBXContainerItemProxy */;
+			targetProxy = 170924162CD7D9E40057DEF0 /* PBXContainerItemProxy */;
 		};
-		17228E852CD76C92007B4F46 /* PBXTargetDependency */ = {
+		170924262CD7DA1A0057DEF0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 17228E612CD76C90007B4F46 /* TimeFlowPro */;
-			targetProxy = 17228E842CD76C92007B4F46 /* PBXContainerItemProxy */;
+			targetProxy = 170924252CD7DA1A0057DEF0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		170924192CD7D9E40057DEF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U4M6G8S4VP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowProTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeFlowPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TimeFlowPro";
+			};
+			name = Debug;
+		};
+		1709241A2CD7D9E40057DEF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U4M6G8S4VP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowProTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeFlowPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TimeFlowPro";
+			};
+			name = Release;
+		};
+		170924282CD7DA1A0057DEF0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U4M6G8S4VP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowProUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TimeFlowPro;
+			};
+			name = Debug;
+		};
+		170924292CD7DA1A0057DEF0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = U4M6G8S4VP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowProUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TimeFlowPro;
+			};
+			name = Release;
+		};
 		17228E8D2CD76C92007B4F46 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -468,81 +561,27 @@
 			};
 			name = Release;
 		};
-		17228E922CD76C92007B4F46 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = U4M6G8S4VP;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeFlowPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TimeFlowPro";
-			};
-			name = Debug;
-		};
-		17228E932CD76C92007B4F46 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = U4M6G8S4VP;
-				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeFlowPro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TimeFlowPro";
-			};
-			name = Release;
-		};
-		17228E952CD76C92007B4F46 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = U4M6G8S4VP;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TimeFlow;
-			};
-			name = Debug;
-		};
-		17228E962CD76C92007B4F46 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = U4M6G8S4VP;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jordan-Payez.TimeFlowUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TimeFlow;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		170924182CD7D9E40057DEF0 /* Build configuration list for PBXNativeTarget "TimeFlowProTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				170924192CD7D9E40057DEF0 /* Debug */,
+				1709241A2CD7D9E40057DEF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		170924272CD7DA1A0057DEF0 /* Build configuration list for PBXNativeTarget "TimeFlowProUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				170924282CD7DA1A0057DEF0 /* Debug */,
+				170924292CD7DA1A0057DEF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		17228E5D2CD76C90007B4F46 /* Build configuration list for PBXProject "TimeFlowPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -557,24 +596,6 @@
 			buildConfigurations = (
 				17228E8D2CD76C92007B4F46 /* Debug */,
 				17228E8E2CD76C92007B4F46 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		17228E912CD76C92007B4F46 /* Build configuration list for PBXNativeTarget "TimeFlowProTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				17228E922CD76C92007B4F46 /* Debug */,
-				17228E932CD76C92007B4F46 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		17228E942CD76C92007B4F46 /* Build configuration list for PBXNativeTarget "TimeFlowProUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				17228E952CD76C92007B4F46 /* Debug */,
-				17228E962CD76C92007B4F46 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

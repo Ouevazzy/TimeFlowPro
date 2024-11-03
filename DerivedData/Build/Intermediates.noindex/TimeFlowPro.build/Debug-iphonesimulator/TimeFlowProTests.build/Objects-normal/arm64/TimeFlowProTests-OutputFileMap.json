@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowProTests-master.dia",
+    "emit-module-dependencies" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowProTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowProTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowProTests-master.swiftdeps"
+  },
+  "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowProTests/TimeFlowTests.swift" : {
+    "const-values" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.swiftconstvalues",
+    "dependencies" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.d",
+    "diagnostics" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.dia",
+    "index-unit-output-path" : "/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.o",
+    "llvm-bc" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.bc",
+    "object" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.o",
+    "swift-dependencies" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests.swiftdeps",
+    "swiftmodule" : "/Users/Jordan/Desktop/TimeFlowPro/DerivedData/Build/Intermediates.noindex/TimeFlowPro.build/Debug-iphonesimulator/TimeFlowProTests.build/Objects-normal/arm64/TimeFlowTests~partial.swiftmodule"
+  }
+}

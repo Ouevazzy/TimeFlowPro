@@ -1,0 +1,176 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Paramètres",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apparence",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Horaires de travail",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jours de travail",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vacances",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Données",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode d'affichage",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Système",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clair",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sombre",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heures quotidiennes: %.1f",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heures hebdomadaires: %.1f",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jours de vacances annuels: %lld",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activer les notifications",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heure du rappel",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effacer toutes les données",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exporter les données",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Confirmer",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voulez-vous vraiment effacer toutes les données ? Cette action est irréversible.",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effacer",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 98
+        }
+      }
+    ]
+  },
+  "version": 1
+}

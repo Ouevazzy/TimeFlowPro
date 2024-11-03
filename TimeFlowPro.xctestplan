@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "23B020AD-F3DB-46D6-B729-2B465CDF27B7",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TimeFlowPro.xcodeproj",
+      "identifier" : "17228E612CD76C90007B4F46",
+      "name" : "TimeFlowPro"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:TimeFlowPro.xcodeproj",
+        "identifier" : "17228E782CD76C92007B4F46",
+        "name" : "TimeFlowProTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:TimeFlowPro.xcodeproj",
+        "identifier" : "17228E822CD76C92007B4F46",
+        "name" : "TimeFlowProUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,120 @@
+{
+  "source": "/Users/Jordan/Desktop/TimeFlowPro/TimeFlowPro/AddEditWorkDayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Nouvelle journée",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modifier",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Horaires",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type de journée",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Début",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fin",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause : %lld minutes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annuler",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enregistrer",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 70
+        }
+      }
+    ]
+  },
+  "version": 1
+}
